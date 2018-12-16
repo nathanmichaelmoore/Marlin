@@ -380,9 +380,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // FT-i3 Mega
-  #define  DEFAULT_Kp 19.95
-  #define  DEFAULT_Ki 1.36
-  #define  DEFAULT_Kd 73.13
+  #define  DEFAULT_Kp 19.32
+  #define  DEFAULT_Ki 1.32
+  #define  DEFAULT_Kd 70.43
 
   // MakerGear
   //#define DEFAULT_Kp 7.0
@@ -1223,7 +1223,7 @@
 // M501 - reads parameters from EEPROM (if you need reset them after you changed them temporarily).
 // M502 - reverts to the default "factory settings".  You still need to store them in EEPROM afterwards if you want to.
 //
-//#define EEPROM_SETTINGS // Enable for M500 and M501 commands
+#define EEPROM_SETTINGS // Enable for M500 and M501 commands
 //#define DISABLE_M503    // Saves ~2700 bytes of PROGMEM. Disable for release!
 #define EEPROM_CHITCHAT   // Give feedback on EEPROM commands. Disable to save PROGMEM.
 
