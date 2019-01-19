@@ -3,4 +3,4 @@
 
 ## Additional Information
 
-This firmware is configured for the Folgertech FT-i3 Mega and has a backup of configuration.h & configuration_adv.h in the configurations/Folgertech folder.
+This firmware is configured for the Folgertech FT-i3 Mega for Paul (Where Nerdy is Cool).
