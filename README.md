@@ -1,4 +1,4 @@
-# Marlin 3D Printer Firmware for the Folgertech FT-i3 Mega
+# Marlin 3D Printer Firmware for the Folgertech FT-i3 Mega (ABL)
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
 ## Additional Information
