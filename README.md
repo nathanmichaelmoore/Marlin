@@ -3,4 +3,4 @@
 
 ## Additional Information
 
-This firmware is configured for the Folgertech FT-i3 Mega for Paul (Where Nerdy is Cool).
+This firmware is configured for the Folgertech FT-i3 Mega for Paul (Where Nerdy is Cool) and uses [this](https://www.thingiverse.com/thing:3441535) Titan Aero mount.
